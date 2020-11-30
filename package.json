@@ -1,15 +1,27 @@
 {
-  "name": "static-reactions-demo",
-  "version": "0.1.0",
-  "private": true,
   "scripts": {
+    "xdn": "xdn",
+    "xdn:start": "xdn run",
+    "xdn:build": "xdn build",
+    "xdn:deploy": "xdn deploy",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
+  "name": "static-reactions-demo",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "next": "^9.5.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@xdn/cli": "^2.30.1",
+    "@xdn/core": "^2.30.1",
+    "@xdn/devtools": "^2.30.1",
+    "@xdn/next": "^2.30.1",
+    "@xdn/prefetch": "^2.30.1",
+    "@xdn/react": "^2.30.1"
   }
 }
