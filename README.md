@@ -1,1 +1,1 @@
-# https://reactions-demo.now.sh
+# https://howie-ross-static-reactions-demo-default.moovweb-edge.io/
