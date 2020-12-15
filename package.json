@@ -18,11 +18,11 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@xdn/cli": "^2.32.1",
-    "@xdn/core": "^2.32.1",
-    "@xdn/devtools": "^2.32.1",
-    "@xdn/next": "^2.32.1",
-    "@xdn/prefetch": "^2.32.1",
-    "@xdn/react": "^2.32.1"
+    "@xdn/cli": "^2.32.2",
+    "@xdn/core": "^2.32.2",
+    "@xdn/devtools": "^2.32.2",
+    "@xdn/next": "^2.32.2",
+    "@xdn/prefetch": "^2.32.2",
+    "@xdn/react": "^2.32.2"
   }
 }
